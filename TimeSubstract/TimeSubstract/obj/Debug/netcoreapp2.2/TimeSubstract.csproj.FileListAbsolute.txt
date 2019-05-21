@@ -1,0 +1,11 @@
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/obj/Debug/netcoreapp2.2/TimeSubstract.csprojAssemblyReference.cache
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/obj/Debug/netcoreapp2.2/TimeSubstract.csproj.CoreCompileInputs.cache
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/obj/Debug/netcoreapp2.2/TimeSubstract.AssemblyInfoInputs.cache
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/obj/Debug/netcoreapp2.2/TimeSubstract.AssemblyInfo.cs
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/bin/Debug/netcoreapp2.2/TimeSubstract.deps.json
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/bin/Debug/netcoreapp2.2/TimeSubstract.runtimeconfig.json
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/bin/Debug/netcoreapp2.2/TimeSubstract.runtimeconfig.dev.json
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/bin/Debug/netcoreapp2.2/TimeSubstract.dll
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/bin/Debug/netcoreapp2.2/TimeSubstract.pdb
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/obj/Debug/netcoreapp2.2/TimeSubstract.dll
+/Users/quert/RiderProjects/TimeSubstract/TimeSubstract/obj/Debug/netcoreapp2.2/TimeSubstract.pdb
