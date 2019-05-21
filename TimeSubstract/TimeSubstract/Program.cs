@@ -5,7 +5,6 @@ namespace TimeSubstract
 {
     class Program
     { 
-        
         static void Main(string[] args)
         {
             TimeSpan span = new TimeSpan();
@@ -22,7 +21,6 @@ namespace TimeSubstract
             DateTime finish = new DateTime(2019, 1, 2, finish_hours, finish_minutes, 0);
             span = finish.Subtract(start);
             Console.WriteLine("Result : {0} hours, {1} minutes", span.Hours, span.Minutes);
-            
             
             Console.Read();
         }
